@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 Independent programmer and researcher.
+- 🌱 I’m currently experimenting with Deep Neural Network architectures.
+- 👯 I have released a few libraries to promote concise programming.
+- ⚡ Located in Vientiane, Laos.
+- 📫 Twitter Handle: @_NareshPS
 
 <!--
 **NareshPS/NareshPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
