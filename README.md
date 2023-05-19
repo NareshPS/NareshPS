@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 Independent programmer and researcher.
-- 🌱 I’m currently experimenting with Deep Neural Network architectures.
+- 🌱 I’m experiment with Deep Neural Network architectures.
 - 👯 I have released a few libraries to promote concise programming.
-- ⚡ Located in Vientiane, Laos.
+- ⚡ Located in Chiang Mai, Thailand.
 - 📫 Twitter Handle: @_NareshPS
 
 <!--
