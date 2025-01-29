@@ -2,7 +2,7 @@
 - 🔭 Independent programmer and researcher.
 - 🌱 I’m experiment with Deep Neural Network architectures.
 - 👯 I have released a few libraries to promote concise programming.
-- ⚡ Located in Chiang Mai, Thailand.
+- ⚡ Located in Aligarh, India.
 - 📫 Twitter Handle: @_NareshPS
 
 <!--
